@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coralexbadea
 - 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently in University bachelor of Computer Science
+- 🌱 I’m currently in University, bachelor of Computer Science
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : send me an email at coralexbadea99@gmail.com
 
